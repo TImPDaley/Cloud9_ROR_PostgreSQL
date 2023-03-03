@@ -115,7 +115,7 @@ postgres=# \du
 -----------+------------------------------------------------------------+-----------
  postgres  | Superuser, Create role, Create DB, Replication, Bypass RLS | {}
 
-postgres=# CREATE USER ubuntu WITH PASSWORD 'Kelley1960!';
+postgres=# CREATE USER ubuntu WITH PASSWORD '<PASSWORD>';
 CREATE ROLE
 postgres=# ALTER USER ubuntu WITH SUPERUSER;
 ALTER ROLE
