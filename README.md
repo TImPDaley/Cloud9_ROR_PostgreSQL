@@ -146,4 +146,5 @@ $ gem update --system 3.2.3
 ```
 
 - Getting error about yarn out of date... 
+    BUT THIS may be from old Rails version and will go way when I upgrade
 - yarn install --check files
