@@ -132,3 +132,18 @@ postgres=# \q
 postgres@ip-172-31-73-72:~$ exit
 logout
 ```
+
+# post install notes 
+
+had to run this command for bundle install to work???
+
+```
+$sudo apt-get install libpq-dev
+```
+UPDATE bundler 
+```
+$ gem update --system 3.2.3
+```
+
+- Getting error about yarn out of date... 
+- yarn install --check files
