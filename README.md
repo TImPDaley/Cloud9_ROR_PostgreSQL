@@ -53,7 +53,7 @@ v16.19.1
 
 ```
 
-## Now install Heroku Tool Belt
+## Now install Heroku Tool Belt (if you plan on deploying to Heroku)
 
 ```
 $ sudo snap install --classic heroku
