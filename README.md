@@ -142,6 +142,14 @@ $sudo apt-get install libpq-dev
 ```
 UPDATE bundler 
 ```
+# install latest bundler ... 
+$ gem install bundler
+
+# or Update the gem
+$ gem update bundler
+
+# THIS UPDATES ALL GEMS - you may not want this! 
+# but hey its a new machine... you can always make another :-)
 $ gem update --system 3.2.3
 ```
 
